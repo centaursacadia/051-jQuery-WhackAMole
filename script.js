@@ -1,0 +1,181 @@
+$("#mole1").click(function(){
+    $("#mole1").hide();
+});
+    
+$("#moleTwo").click(function(){
+    $("#moleTwo").hide();
+}); 
+    
+$("#thirdMole").click(function(){
+    $("#thirdMole").hide();
+});
+    
+$("button").click(function(){
+    $("#moleTwo").show();
+});
+$("button").click(function(){
+    $("#mole1").show();
+});
+$("button").click(function(){
+    $("#thirdMole").show();
+});
+
+$("#mole1").click(function(){
+    $("#hole10").show();
+});
+$("#mole1").click(function(){
+    $("#hole5").hide();
+});
+$("#mole1").click(function(){
+    $("#mole50").show();
+});
+
+$("#mole50").click(function(){
+    $("#mole50").hide();
+});
+$("#mole50").click(function(){
+    $("#hole5").show();
+});
+
+$("#mole50").click(function(){
+    $("#mole20").show();
+});
+$("#mole50").click(function(){
+    $("#holeTwo").hide();
+});
+$("#mole20").click(function(){
+    $("#mole1").show();
+});
+$("#mole20").click(function(){
+    $("#hole10").hide();
+});
+$("#mole20").click(function(){
+    $("#mole20").hide();
+});
+$("#mole20").click(function(){
+    $("#holeTwo").show();
+});
+$("#moleTwo").click(function(){
+    $("#hole20").show();
+});
+$("#moleTwo").click(function(){
+    $("#mole60").show();
+});
+$("#moleTwo").click(function(){
+    $("#hole6").hide();
+});
+$("#mole60").click(function(){
+    $("#hole6").show();
+});
+$("#mole60").click(function(){
+    $("#mole60").hide();
+});
+$("#mole60").click(function(){
+    $("#mole10").show();
+});
+$("#mole60").click(function(){
+    $("#hole1").hide();
+});
+$("#mole10").click(function(){
+    $("#moleTwo").show();
+});
+$("#mole10").click(function(){
+    $("#mole10").hide();
+});
+$("#mole10").click(function(){
+    $("#hole1").show();
+});
+$("#mole10").click(function(){
+    $("#hole20").hide();
+});
+$("#thirdMole").click(function(){
+    $("#hole30").show();
+});
+$("#thirdMole").click(function(){
+    $("#mole40").show();
+});
+$("#thirdMole").click(function(){
+    $("#hole4").hide();
+});
+$("#mole40").click(function(){
+    $("#mole30").show();
+});
+$("#mole40").click(function(){
+    $("#thirdHole").hide();
+});
+$("#mole40").click(function(){
+    $("#mole40").hide();
+});
+$("#mole40").click(function(){
+    $("#hole4").show();
+});
+$("#mole30").click(function(){
+    $("#thirdMole").show();
+});
+$("#mole30").click(function(){
+    $("#hole30").hide();
+});
+$("#mole30").click(function(){
+    $("#thirdHole").show();
+});
+$("#mole30").click(function(){
+    $("#mole30").hide();
+});
+
+$("button").click(function(){
+    $("#holeTwo").show();
+});
+$("button").click(function(){
+    $("#hole1").show();
+});
+$("button").click(function(){
+    $("#thirdHole").show();
+});
+
+$("button").click(function(){
+    $("#hole4").show();
+});
+$("button").click(function(){
+    $("#hole5").show();
+});
+$("button").click(function(){
+    $("#hole6").show();
+});
+$("button").click(function(){
+    $("#hole20").hide();
+});
+$("button").click(function(){
+    $("#hole10").hide();
+});
+$("button").click(function(){
+    $("#hole30").hide();
+});
+$("button").click(function(){
+    $("#hole40").hide();
+});
+$("button").click(function(){
+    $("#hole60").hide();
+});
+$("button").click(function(){
+    $("#hole50").hide();
+});
+
+$("button").click(function(){
+    $("#mole20").hide();
+});
+$("button").click(function(){
+    $("#mole10").hide();
+});
+$("button").click(function(){
+    $("#mole30").hide();
+});
+
+$("button").click(function(){
+    $("#mole40").hide();
+});
+$("button").click(function(){
+    $("#mole50").hide();
+});
+$("button").click(function(){
+    $("#mole60").hide();
+});
